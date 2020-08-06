@@ -1,7 +1,8 @@
 # Mark Downie
 
-Hi there! I have worked as a tech leader in the field of software engineering and development for over 20 years. I have experience in financial services, healthcare and manufacturing, I have also mentored and developed international, multi-disciplined teams for over 12 years.
-
 I am currently working for a [small software company](https://www.microsoft.com/) as a Program Manager, spending my days building diagnostics tooling for Visual Studio and Azure.
 
-I also [blog a lot here](https://www.poppastring.com/blog), please [subscribe](https://www.poppastring.com/blog/feed/rss).
+- 🌱 I blog about the things I am working on here https://www.poppastring.com/blog
+- 🤷🏿‍♂️ I’m on Twitter if you care to hear my short form rambling https://twitter.com/poppastring
+
+![My Github stats](https://github-readme-stats.vercel.app/api?username=poppastring&show_icons=true&theme=synthwave)
