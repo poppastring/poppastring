@@ -1,9 +1,5 @@
 # Mark Downie
+I work as a Product Manager at Microsoft in the CoreAI division, building tools that support developers in Visual Studio and .NET.
 
-I am currently working for [Microsoft](https://www.microsoft.com/) as a Product Manager, spending my days building diagnostics tooling for Visual Studio, .NET, and Azure.
-
-- 📝 I blog about the things I am working on here [https://www.poppastring.com/blog](https://www.poppastring.com/blog)
-- 🤷🏿‍♂️ I’m on Mastodon if you care to hear me rambling in short-form [https://dotnet.social/@poppastring](https://dotnet.social/@poppastring)
-
-
-![My Github stats](https://github-readme-stats.vercel.app/api?username=poppastring&show_icons=true&theme=synthwave)
+📝 I write about whatever captures my attention: [https://www.poppastring.com/blog](https://www.poppastring.com/blog)
+🤷🏿‍♂️ For shorter thoughts, I’m on BlueSky: [https://bsky.app/profile/poppastring.com](https://bsky.app/profile/poppastring.com)
